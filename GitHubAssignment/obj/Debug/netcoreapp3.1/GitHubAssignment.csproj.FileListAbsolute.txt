@@ -146,3 +146,8 @@ D:\Week-13 GitHub Assignment\GitHubAssignment\bin\Debug\netcoreapp3.1\ru\Microso
 D:\Week-13 GitHub Assignment\GitHubAssignment\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Week-13 GitHub Assignment\GitHubAssignment\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Week-13 GitHub Assignment\GitHubAssignment\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Week-13 GitHub Assignment\GitHubAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Emps\Create.cshtml.g.cs
+D:\Week-13 GitHub Assignment\GitHubAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Emps\Delete.cshtml.g.cs
+D:\Week-13 GitHub Assignment\GitHubAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Emps\Details.cshtml.g.cs
+D:\Week-13 GitHub Assignment\GitHubAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Emps\Edit.cshtml.g.cs
+D:\Week-13 GitHub Assignment\GitHubAssignment\obj\Debug\netcoreapp3.1\Razor\Views\Emps\Index.cshtml.g.cs
